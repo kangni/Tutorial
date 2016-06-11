@@ -6,7 +6,7 @@
 
 1. Windows 7 专业版：得是 GPT 磁盘
 2. T520 驱动程序：官网的一个程序集合
-3. 锐捷
+3. 锐捷：替换 8021x、SuService
 4. QQ：导入聊天记录、表情
 5. ShadowSocks
 6. Chrome
@@ -25,3 +25,4 @@
 19. iTunes
 20. Sublime Text 3：Portable
 21. 百度云
+22. 小度WiFi
