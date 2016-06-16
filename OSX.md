@@ -19,3 +19,11 @@
 - Instapaper
 - Dash 3
 - Pycharm
+- Xcode
+- Emacs
+- PCalc
+- Papers
+- Sente
+- DaisyDisk
+- DiskWarrior
+- Slack
