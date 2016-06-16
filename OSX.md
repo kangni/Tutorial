@@ -14,3 +14,8 @@
 - Homebrew
 - oh my zch
 - Alfred 3
+- MPlayerX
+- VLC
+- Instapaper
+- Dash 3
+- Pycharm
