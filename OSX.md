@@ -1,0 +1,16 @@
+#OS X
+
+- AdBlock
+- iStatMenus:system monitor
+- Mou:Markdown editor
+- Amphetamine:keep Mac awake
+- Snip:offline edition better than iTunes edition
+- Aria2:download tool
+- TeamViewer
+- Go2Shell
+- iTerm2
+- smcFanControl
+- F.lux
+- Homebrew
+- oh my zch
+- Alfred 3
