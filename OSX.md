@@ -17,7 +17,7 @@
 - MPlayerX
 - VLC
 - Instapaper
-- Dash 3
+- Dash 3:常年打折，半价
 - Pycharm
 - Xcode
 - Emacs
@@ -27,3 +27,19 @@
 - DaisyDisk
 - DiskWarrior
 - Slack
+- SourceTree
+- WireShark
+- Tuxera NTFS
+- GoAgentX
+- 鼠须管
+- MacVim
+- XtraFinder
+- Typora
+- Hazel
+- SizeUp
+- GitUp
+- Charles
+- Optimal Layout
+- Trello
+- Apphop
+- 
