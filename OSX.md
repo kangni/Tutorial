@@ -1,6 +1,8 @@
 #OS X
 
-- AdBlock
+- Chrome
+  - Vimium
+  - AdBlock
 - iStatMenus:system monitor
 - Mou:Markdown editor
 - Amphetamine:keep Mac awake
@@ -12,9 +14,10 @@
 - smcFanControl
 - F.lux
 - Homebrew
+- cask brew
 - oh my zch
 - Alfred 3
-- MPlayerX
+- MPlayerX:去官网下
 - VLC
 - Instapaper
 - Dash 3:常年打折，半价
@@ -31,20 +34,38 @@
 - WireShark
 - Tuxera NTFS
 - GoAgentX
-- 鼠须管
+- 鼠鬚管
 - MacVim
 - XtraFinder
 - Typora
 - Hazel
 - SizeUp
 - GitUp
-- Charles
-- Optimal Layout
 - Trello
-- Apphop
-- Letterpress
 - Quiver
 - Yummy FTP
+- Cyberduck:FTP
 - Pandoc
 - Time Out
-- 
+- Transmission:BitTorrent Client
+- Postman
+- MacDown:Markdown
+- Karabiner:keyboard customizer
+- Little Snitch
+- CotEditor:PlainText editor
+- HandBrake:video transcoder
+- Tower
+- DynamicLyrics
+- Flashlight:Alfred much better
+- CodeRunner:官网下载更好
+- Instashare
+- Snapselect
+- Keka:file archiver
+- The Unarchiver:file archiver
+- Hocus Focus
+- Sequel Pro:MySQL database management
+- DataGrid
+- Skim:PDF Reader
+- Thunder
+- App Cleaner
+- Language Switcher
