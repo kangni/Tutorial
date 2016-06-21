@@ -38,7 +38,7 @@
 - MacVim
 - XtraFinder
 - Typora
-- Hazel
+- Hazel:Automated Organization
 - SizeUp
 - GitUp
 - Trello
@@ -48,7 +48,7 @@
 - Pandoc
 - Time Out
 - Transmission:BitTorrent Client
-- Postman
+- Postman:develop APIs
 - MacDown:Markdown
 - Karabiner:keyboard customizer
 - Little Snitch
@@ -62,10 +62,10 @@
 - Snapselect
 - Keka:file archiver
 - The Unarchiver:file archiver
-- Hocus Focus
 - Sequel Pro:MySQL database management
 - DataGrid
 - Skim:PDF Reader
 - Thunder
 - App Cleaner
 - Language Switcher
+- Vagrant:development environments
