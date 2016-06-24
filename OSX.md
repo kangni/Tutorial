@@ -11,11 +11,11 @@
 - TeamViewer
 - Go2Shell
 - iTerm2
-- smcFanControl
+- smcFanControl(iStatMenus可以控制风扇转速)
 - F.lux
 - Homebrew
 - cask brew
-- oh my zch
+- oh my zsh
 - Alfred 3
 - MPlayerX:去官网下
 - VLC
@@ -57,7 +57,7 @@
 - Tower
 - DynamicLyrics
 - Flashlight:Alfred much better
-- CodeRunner:官网下载更好
+- CodeRunner:官网下载更好，收费
 - Instashare
 - Snapselect
 - Keka:file archiver
