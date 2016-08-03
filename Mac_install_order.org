@@ -59,3 +59,4 @@
 27. CleanMyDrive
 28. Slack
 29. oh-my-zsh
+30. Docker for Mac(add DaoCloud mirror)
