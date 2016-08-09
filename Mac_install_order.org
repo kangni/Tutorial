@@ -14,6 +14,10 @@
 5. iStatMenus
 6. PyCharm、DataGrip、SourceTree
 7. Sublime Text 3
+   |- FileDiffs
+   |- Anaconda
+   |- Markdown Preview
+   |- Markdown Editing
 8. Skim
 9. MacDown、Typora
 10. Zotero
