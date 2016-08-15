@@ -26,12 +26,14 @@
     |- tmux
     |- autojump
     |- Alfred
+    |- nvm
 15. Cask brew
     |- ShadowSocksX
     |- iTerm2
     |- google-chrome
        |- Adblock Plus
     |- launchrocket（不能扫描出安装的）
+    |- firefox
 16. Aria2GUI
 17. 更新自带Git
     1. 检查系统调用默认版本
@@ -60,3 +62,4 @@
 28. Slack
 29. oh-my-zsh
 30. Docker for Mac(add DaoCloud mirror)
+31. Node.js(nvm)
