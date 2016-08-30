@@ -69,3 +69,4 @@
 29. oh-my-zsh
 30. Docker for Mac(add DaoCloud mirror)
 31. Node.js(nvm)
+32. OmniDiskSweeper
