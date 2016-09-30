@@ -75,3 +75,4 @@
 32. OmniDiskSweeper
 33. 欧路词典
 34. AutoMute: 拔掉耳机时自动静音
+35. VOX
