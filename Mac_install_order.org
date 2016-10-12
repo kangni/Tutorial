@@ -43,6 +43,7 @@
     |- firefox
     |- teamviewer
     |- little-snitch(uninstalled)
+    |- anki
 16. Aria2GUI
 17. 更新自带Git
     1. 检查系统调用默认版本
