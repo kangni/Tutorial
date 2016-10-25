@@ -5,6 +5,8 @@
     重新启动
     http://wdxtub.com/2016/02/18/mac-tips/
 2. 触摸板、键盘以及Finder sidebar显示设置
+   |- Spotlight: ⌥Space, turn off: Show Finder Search Window
+   |- Input Source: ⌘Space, turn off: Select the previous input source
 3. 在 Finder 标题栏显示完整路径
     defaults write com.apple.finder _FXShowPosixPathInTitle -bool YES
     恢复
