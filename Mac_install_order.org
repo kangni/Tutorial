@@ -38,6 +38,8 @@
     |- Alfred
     |- nvm
     |- htop
+    |- nginx
+    |- redis
 15. Cask brew
     |- ShadowSocksX
     |- iTerm2
