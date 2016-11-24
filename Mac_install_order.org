@@ -41,6 +41,8 @@
     |- nginx
     |- redis
     |- zmq
+    |- reggy
+    |- jq: format JSON Lines file
 15. Cask brew
     |- ShadowSocksX
     |- iTerm2
