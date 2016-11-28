@@ -91,6 +91,8 @@
 36. VLC
 37. Visual Studio Code
     |- Python
-    |- Guide
+    |- Guides
     |- vscode-icons
     |- MagicPython
+    |- Git History
+    |- Docker Support
