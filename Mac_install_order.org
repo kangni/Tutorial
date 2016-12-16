@@ -43,6 +43,7 @@
     |- zmq
     |- reggy
     |- jq: format JSON Lines file
+    |- cheat
 15. Cask brew
     |- ShadowSocksX
     |- iTerm2
