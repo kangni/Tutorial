@@ -80,7 +80,7 @@
 23. Cakebrew（Brew GUI Manager）
 24. 修改屏幕截图路径
 25. Proxifier
-26. CleanMyMac: 注意保留需要用到的语言，通用二进制文件要保留
+26. CleanMyMac: 注意保留需要用到的语言，通用二进制文件要保留以及忽略文件的设置
 27. CleanMyDrive
 28. Slack
 29. oh-my-zsh
