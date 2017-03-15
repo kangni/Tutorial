@@ -59,6 +59,7 @@
     |- jumpcut
     |- tldr
     |- macvim
+    |- mpv
 16. Aria2GUI
 17. 更新自带Git
     1. 检查系统调用默认版本
@@ -103,3 +104,4 @@
 38. Thunder
 39. Dash
 40. Wireshark
+41. X Lossless Decoder
