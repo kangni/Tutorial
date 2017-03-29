@@ -35,7 +35,6 @@
     |- python3
     |- tmux
     |- autojump
-    |- Alfred
     |- nvm
     |- htop
     |- nginx
@@ -44,6 +43,7 @@
     |- reggy
     |- jq: format JSON Lines file
     |- cheat
+    |- tree
 15. Cask brew
     |- ShadowSocksX
     |- iTerm2
@@ -51,6 +51,21 @@
        |- Adblock Plus
        |- OneTab
        |- cVim
+       |- Exporter(for aria2)
+       |- 1Password
+       |- Advanced Font Settings
+       |- Awesome Screenshot
+       |- Better History
+       |- HTTPS Everywhere
+       |- Instapaper
+       |- Markdown Preview Plus
+       |- Mercury Reader
+       |- OneTab
+       |- Postman
+       |- Send to Kindle
+       |- Stylish
+       |- uBlock Origin
+       |- YAAW for Chrome
     |- launchrocket（不能扫描出安装的）
     |- firefox
     |- teamviewer
@@ -60,6 +75,7 @@
     |- tldr
     |- macvim
     |- mpv
+    |- Alfred
 16. Aria2GUI
 17. 更新自带Git
     1. 检查系统调用默认版本
