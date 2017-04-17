@@ -122,3 +122,4 @@
 39. Dash
 40. Wireshark
 41. X Lossless Decoder
+42. spectacle
