@@ -124,3 +124,4 @@
 41. X Lossless Decoder
 42. spectacle
 43. Resilio Sync
+44. Tincta: 大妈推荐，支持正则替换的编辑器
