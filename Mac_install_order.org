@@ -126,3 +126,4 @@
 43. Resilio Sync
 44. Tincta: 大妈推荐，支持正则替换的编辑器
 45. Battery Health: 大妈推荐
+46. Xee
