@@ -129,3 +129,4 @@
 46. Xee
 47. Github Desktop
 48. AppBeBack: 不怕按错 command+q 了。
+49. HandShaker: for Smartisan Phone
