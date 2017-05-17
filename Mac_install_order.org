@@ -128,3 +128,4 @@
 45. coconutBattery: 大妈推荐，替换掉弹窗丑陋的Battery Health
 46. Xee
 47. Github Desktop
+48. AppBeBack: 不怕按错 command+q 了。
