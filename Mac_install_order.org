@@ -127,3 +127,4 @@
 44. Tincta: 大妈推荐，支持正则替换的编辑器
 45. coconutBattery: 大妈推荐，替换掉弹窗丑陋的Battery Health
 46. Xee
+47. Github Desktop
