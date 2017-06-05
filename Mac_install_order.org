@@ -66,6 +66,7 @@
        |- Stylish
        |- uBlock Origin
        |- YAAW for Chrome
+       |- Youku HTML5 Player
     |- launchrocket（不能扫描出安装的）
     |- firefox
     |- teamviewer
