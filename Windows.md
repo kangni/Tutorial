@@ -26,3 +26,38 @@
 20. Sublime Text 3：Portable
 21. 百度云
 22. 小度WiFi
+23. Lightroom
+24. Cintanotes
+25. MDict
+26. Mendeley（可选）
+27. Miu（可选）
+28. SourceTree
+29. PyCharm
+30. Everything
+31. Opanda PowerExif／IExif
+32. MiniLyrics
+33. UltraISO
+34. HashTab
+35. TeX Live
+36. CTeX
+37. Scribus
+38. Scrivener
+39. ScreenToGif
+40. Windowns Movie Maker（可选）
+41. 7－Zip
+42. Air Video Server
+43. Kindle Previewer
+44. MarkPad（可选）
+45. DAEMON Tools
+46. DjVuLibre（可选）
+47. Dropbox
+48. Lingoes
+49. MarkdownPad
+50. Office 2013
+51. Process Lasso
+52. Razer Synapse
+53. WinDjView
+54. 优酷
+55. Hamster Free EbookConverter
+56. AutoLyric
+57. Exact Audio Copy
