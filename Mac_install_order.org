@@ -131,3 +131,4 @@
 47. Github Desktop
 48. AppBeBack: 不怕按错 command+q 了。
 49. HandShaker: for Smartisan Phone
+50. Atom（试试看
