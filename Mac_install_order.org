@@ -113,12 +113,30 @@
 35. VOX
 36. VLC
 37. Visual Studio Code
-    |- Python
-    |- Guides
-    |- vscode-icons
-    |- MagicPython
-    |- Git History
+    |- Auto Rename Tag
+    |- Auto Close Tag
+    |- Annotator
+    |- Align
+    |- Color Highlight
+    |- Code Runner
+    |- Dash
+    |- Docker
     |- Docker Support
+    |- Emacs Keymap
+    |- gi 
+    |- Git History
+    |- Go
+    |- Guides
+    |- LaTeX Language Support
+    |- MagicPython
+    |- One Dark Pro(theme)
+    |- Path Intellisense
+    |- Partial Diff 
+    |- Python
+    |- REST Client
+    |- stylelint
+    |- vscode-icons
+    |- you-complete-me
 38. Thunder
 39. Dash
 40. Wireshark
