@@ -44,6 +44,13 @@
     |- jq: format JSON Lines file
     |- cheat
     |- tree
+    |- macvim
+    |- cscope(for macvim)
+    |- openssl
+    |- lua(for macvim)
+    |- sqlite
+    |- the_silver_searcher
+    |- tldr(to long dont read)
 15. Cask brew
     |- ShadowSocksX
     |- iTerm2
@@ -73,11 +80,10 @@
     |- little-snitch
     |- calibre
     |- jumpcut
-    |- tldr
-    |- macvim
     |- mpv
     |- Alfred
     |- CheatSheet
+    |- iina(player)
 16. Aria2GUI
 17. 更新自带Git
     1. 检查系统调用默认版本
