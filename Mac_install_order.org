@@ -149,6 +149,7 @@
     |- Guides
     |- LaTeX Language Support
     |- MagicPython
+    |- Markdown Preview Enhanced
     |- One Dark Pro(theme)
     |- Path Intellisense
     |- Partial Diff 
