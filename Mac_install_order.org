@@ -139,6 +139,7 @@
     |- Align
     |- Color Highlight
     |- Code Runner
+    |- CSS Peek
     |- Dash
     |- Docker
     |- Docker Support
@@ -147,10 +148,12 @@
     |- Git History
     |- Go
     |- Guides
+    |- HTML Boilerplate
     |- LaTeX Language Support
     |- MagicPython
     |- Markdown Preview Enhanced
     |- One Dark Pro(theme)
+    |- open in browser
     |- Path Intellisense
     |- Partial Diff 
     |- Python
@@ -170,7 +173,7 @@
 47. Github Desktop
 48. AppBeBack: 不怕按错 command+q 了。
 49. HandShaker: for Smartisan Phone
-50. Atom（试试看
+50. Atom(试试看)
 51. Font
     |- Source Code Pro
     |- WenQuanYi Zen Hei 
