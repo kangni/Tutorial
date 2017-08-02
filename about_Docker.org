@@ -7,3 +7,10 @@ RUN cp /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
 * 编写 Dockerfile
 # 更换国内源
 RUN sed -i 's/archive.ubuntu.com/mirrors.aliyun.com/g' /etc/apt/sources.list
+
+# 瘦身
+delete all the apt list files since they're big and get stale quickly
+
+RUN rm -rf /var/lib/apt/lists/*
+
+# this forces "apt-get update" in dependent images, which is also good
