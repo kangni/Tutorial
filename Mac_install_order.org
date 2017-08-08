@@ -45,6 +45,7 @@
     |- lua(for neocomplete)
     |- macvim(yes, not from brew cask)
     |- makedepend
+    |- mysql
     |- nginx
     |- nvm
     |- oniguruma(Regular expressions library)
