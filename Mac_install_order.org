@@ -39,6 +39,7 @@
     |- go
     |- heroku
     |- htop
+    |- httpie
     |- jq: format JSON Lines file
     |- libevent
     |- libzip
@@ -49,6 +50,7 @@
     |- nginx
     |- nvm
     |- oniguruma(Regular expressions library)
+    |- opencv
     |- openssl(libevent dependencies)
     |- openssl@1.1
     |- pcre(Perl compatible regular expressions library)
@@ -67,6 +69,8 @@
     |- utf8proc(Clean C library for processing UTF-8 Unicode data)
     |- wget
     |- xz
+    |- mit-scheme
+    |- rlwrap(mainly for mit-scheme right now)
 15. Cask brew
     |- calibre
     |- cheatsheet
@@ -162,6 +166,7 @@
     |- stylelint
     |- vscode-icons
     |- you-complete-me
+    |- org mode
 38. Thunder
 39. Dash
 40. Wireshark
