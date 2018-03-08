@@ -71,6 +71,7 @@
     |- xz
     |- mit-scheme
     |- rlwrap(mainly for mit-scheme right now)
+    |- kubernetes-helm
 15. Cask brew
     |- calibre
     |- cheatsheet
