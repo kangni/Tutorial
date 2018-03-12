@@ -61,3 +61,4 @@
 55. Hamster Free EbookConverter
 56. AutoLyric
 57. Exact Audio Copy
+58. [rufus: 烧录系统](https://rufus.akeo.ie/)
