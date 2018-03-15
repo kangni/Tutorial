@@ -66,6 +66,7 @@
     |- tldr(too long dont read)
     |- tmux
     |- tree
+    |- trash
     |- utf8proc(Clean C library for processing UTF-8 Unicode data)
     |- wget
     |- xz
