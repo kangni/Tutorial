@@ -37,6 +37,7 @@
     |- cscope
     |- gdbm(GNU database manager)
     |- go
+    |- graphviz
     |- heroku
     |- htop
     |- httpie
