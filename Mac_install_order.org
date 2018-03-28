@@ -63,6 +63,7 @@
     |- readline(Library for command-line editing)
     |- redis
     |- sqlite
+    |- ssh-copy-id
     |- the_silver_searcher
     |- tldr(too long dont read)
     |- tmux
