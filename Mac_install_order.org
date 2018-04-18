@@ -152,6 +152,7 @@
     |- Dash
     |- Docker
     |- Docker Support
+    |- Excel viewer
     |- Emacs Keymap
     |- gi 
     |- Git History
