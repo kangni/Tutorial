@@ -59,6 +59,7 @@
     |- proxychains-ng(no comment)
     |- pyenv
     |- python
+    |- python@2
     |- python3
     |- readline(Library for command-line editing)
     |- redis
@@ -155,7 +156,7 @@
     |- Docker Support
     |- Excel viewer
     |- Emacs Keymap
-    |- gi 
+    |- gi
     |- Git History
     |- Go
     |- Guides
@@ -166,7 +167,7 @@
     |- One Dark Pro(theme)
     |- open in browser
     |- Path Intellisense
-    |- Partial Diff 
+    |- Partial Diff
     |- Python
     |- REST Client
     |- stylelint
@@ -189,8 +190,8 @@
 50. Atom(试试看)
 51. Font
     |- Source Code Pro
-    |- WenQuanYi Zen Hei 
-    |- WenQuanYi Zen Hei Mono 
+    |- WenQuanYi Zen Hei
+    |- WenQuanYi Zen Hei Mono
     |- WenQuanYi Zen Hei Sharp
     |- YaHei Consolas Hybrid
     |- Hack
