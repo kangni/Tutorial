@@ -59,10 +59,10 @@
     |- proxychains-ng(no comment)
     |- pyenv
     |- python
-    |- python@2
     |- python3
     |- readline(Library for command-line editing)
     |- redis
+    |- siege
     |- sqlite
     |- ssh-copy-id
     |- the_silver_searcher
