@@ -106,6 +106,7 @@
     |- reggy
     |- resilio-sync
     |- shadowsocksx
+    |- slowquitapps
     |- teamviewer
     |- vlc
     |- yu-writer
