@@ -101,7 +101,6 @@
        |- Youku HTML5 Player)
     |- iina(player)
     |- iterm2
-    |- jumpcut
     |- proxifier
     |- reggy
     |- resilio-sync
@@ -157,6 +156,7 @@
     |- Docker Support
     |- Excel viewer
     |- Emacs Keymap
+    |- erlang
     |- gi
     |- Git History
     |- Go
@@ -186,10 +186,9 @@
 45. coconutBattery: 大妈推荐，替换掉弹窗丑陋的Battery Health
 46. Xee
 47. Github Desktop
-48. AppBeBack: 不怕按错 command+q 了。
+48. Command-Tab Plus
 49. HandShaker: for Smartisan Phone
-50. Atom(试试看)
-51. Font
+50. Font
     |- Source Code Pro
     |- WenQuanYi Zen Hei
     |- WenQuanYi Zen Hei Mono
