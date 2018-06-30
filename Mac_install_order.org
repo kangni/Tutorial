@@ -195,3 +195,4 @@
     |- WenQuanYi Zen Hei Sharp
     |- YaHei Consolas Hybrid
     |- Hack
+51. LyricsX
