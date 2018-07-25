@@ -35,6 +35,7 @@
     |- autojump
     |- cheat
     |- cscope
+	|- findutils
     |- gdbm(GNU database manager)
     |- go
     |- graphviz
@@ -111,19 +112,25 @@
     |- yu-writer
 16. Aria2GUI
 17. 更新自带Git
+	#BEGIN_QUOTE
     1. 检查系统调用默认版本
 	Homebrew安装的GIT会被软链接到/usr/local/bin目录下，所以如果你使用which git看到的结果不是/usr/local/bin/git，那么你就需要通过后面的方法修改以便能够默认使用你所安装版本的GIT。
     2. 移除系统自带的版本
 	如果which git返回的结果是/usr/bin/git，说明你可能通过XCode安装了其自带的GIT，其版本一般都比较低，需要移除。
-	1 cd /usr/bin
-	2 sudo mkdir backup-git-apple
-	3 sudo mv git* backup-git-apple
+	#BEGIN_SRC shell
+    cd /usr/bin
+	sudo mkdir backup-git-apple
+	sudo mv git* backup-git-apple
+	#END_SRC
     3. 移除可能存在的其它版本
 	如果which git返回的结果是/usr/local/git/bin/git，则表示可能是你曾经使用git-osx-installer或其它方式安装过GIT，检查系统环境变量PATH可能还包含形如/usr/local/git/bin的路径。
-	1 sudo rm -rf /usr/local/git
-	2 sudo rm /etc/paths.d/git
-	3 sudo rm /etc/manpaths.d/git
+	#BEGIN_SEC shell
+    sudo rm -rf /usr/local/git
+	sudo rm /etc/paths.d/git
+	sudo rm /etc/manpaths.d/git
+	#END_SRC
     4. 重启终端，再次检查which git及git version。2、3的情况可能同时存在。
+	#END_QUOTE   
 18. virtualenv
 19. Vagrant（安装包里有卸载工具）
 20. Emacs（通过安装包）
@@ -196,3 +203,4 @@
     |- YaHei Consolas Hybrid
     |- Hack
 51. LyricsX
+52. SlowQuitApps
