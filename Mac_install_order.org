@@ -33,9 +33,12 @@
 14. Homebrew（若出现hombrew libevent not link，键入sudo chown -R $USER $(brew --prefix)）
     |- autoconf(Emacs)
     |- autojump
+	|- bat: A cat clone with syntax highlighting and Git integration.
     |- cheat
     |- cscope
+	|- diff-so-fancy
 	|- findutils
+	|- fzf
     |- gdbm(GNU database manager)
     |- go
     |- graphviz
