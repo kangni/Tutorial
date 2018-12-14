@@ -59,6 +59,7 @@
 	|- opencv
 	|- openssl(libevent dependencies)
 	|- openssl@1.1
+	|- pandoc
 	|- pcre(Perl compatible regular expressions library)
 	|- pkg-config(Manage compile and link flags for libraries)
 	|- proxychains-ng(no comment)
