@@ -40,17 +40,20 @@
 	|- findutils
 	|- fzf
 	|- gdbm(GNU database manager)
+	|- git-flow
 	|- go
 	|- graphviz
 	|- heroku
 	|- htop
 	|- httpie
 	|- jq: format JSON Lines file
+	|- kubernetes-helm
 	|- libevent
 	|- libzip
 	|- lua(for neocomplete)
 	|- macvim(yes, not from brew cask)
 	|- makedepend
+	|- mit-scheme
 	|- mycli
 	|- mysql
 	|- nginx
@@ -68,6 +71,7 @@
 	|- python3
 	|- readline(Library for command-line editing)
 	|- redis
+	|- rlwrap(mainly for mit-scheme right now)
 	|- siege
 	|- sqlite
 	|- ta-lib: perform technical analysis of financial market data.
@@ -81,9 +85,7 @@
 	|- utf8proc(Clean C library for processing UTF-8 Unicode data)
 	|- wget
 	|- xz
-	|- mit-scheme
-	|- rlwrap(mainly for mit-scheme right now)
-	|- kubernetes-helm
+	|- zip
 15. Cask brew
 	|- calibre
 	|- cheatsheet
