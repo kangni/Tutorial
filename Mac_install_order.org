@@ -49,6 +49,7 @@
 	|- jq: format JSON Lines file
 	|- kubernetes-helm
 	|- libevent
+	|- libressl
 	|- libzip
 	|- lua(for neocomplete)
 	|- macvim(yes, not from brew cask)
