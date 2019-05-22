@@ -72,6 +72,7 @@
 	|- python3
 	|- readline(Library for command-line editing)
 	|- redis
+	|- ripgrep
 	|- rlwrap(mainly for mit-scheme right now)
 	|- siege
 	|- sqlite
@@ -86,6 +87,7 @@
 	|- utf8proc(Clean C library for processing UTF-8 Unicode data)
 	|- wget
 	|- xz
+	|- ydiff
 	|- zip
 15. Cask brew
 	|- calibre
