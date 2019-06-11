@@ -79,6 +79,7 @@
 	|- ta-lib: perform technical analysis of financial market data.
 	|- terminal-notifier(for notification)
 	|- ssh-copy-id
+	|- telnet
 	|- the_silver_searcher
 	|- tldr(too long dont read)
 	|- tmux
